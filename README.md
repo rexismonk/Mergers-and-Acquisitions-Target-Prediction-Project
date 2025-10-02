@@ -45,5 +45,5 @@ The SHAP analysis unlocked the following actionable insights, translating the mo
 
 1.  Clone the repository.
 2.  Install the required dependencies (`pandas`, `scikit-learn`, `xgboost`, `imblearn`, `shap`).
-3.  Place the raw CSV files from the original data source into the `data/raw/` directory.
+3.  Place the raw CSV files from the original data source into the same directory as the script.
 4.  Run the Jupyter Notebooks in sequential order from `01` to `04` to replicate the analysis.
